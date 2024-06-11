@@ -20,7 +20,8 @@
         "./src/theme/*"
       ],
       "@utils/*": [
-        "./src/utils/*"
+        "./src/utils/*",
+        "./test-utils.ts"
       ]
     }
   }
